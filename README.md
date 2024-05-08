@@ -1,6 +1,8 @@
 <h1 align="center"> ScreenMatch </h1>
 
-![Static Badge](https://img.shields.io/badge/Spring-boot-api) ![Static Badge](https://img.shields.io/badge/Technology-java-spring) ![Static Badge](https://img.shields.io/badge/Technology-git-hub) ![Static Badge](https://img.shields.io/badge/Technology-spring-api) ![Static Badge](https://img.shields.io/badge/AI-ChatGPT-3) ![Static Badge](https://img.shields.io/badge/DBA-Posgrest-1)
+![Static Badge](https://img.shields.io/badge/Spring-boot-api) ![Static Badge](https://img.shields.io/badge/Technology-java-spring) ![Static Badge](https://img.shields.io/badge/Technology-git-hub) ![Static Badge](https://img.shields.io/badge/Technology-spring-api) ![Static Badge](https://img.shields.io/badge/AI-ChatGPT-1?logo=gpt&color=blue)
+ ![Static Badge](https://img.shields.io/badge/DBA-Posgrest-1?color=blue)
+
 
 
 
