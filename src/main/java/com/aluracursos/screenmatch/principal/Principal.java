@@ -20,7 +20,7 @@ public class Principal {
 
    private List <DatosSerie> datosSerie =new ArrayList<>();
    private SerieRepository repositorio;
-  //global scope for list of serieBuscada
+  //global scope for list of serieBuscada.
    private Optional<Serie> serieBuscada;
 
     public Principal(SerieRepository repository) {
